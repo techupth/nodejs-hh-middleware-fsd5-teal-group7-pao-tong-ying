@@ -1,0 +1,42 @@
+
+IP: ::ffff:127.0.0.1, Method: GET, Endpoint: /assignments/1
+IP: ::ffff:127.0.0.1, Method: GET, Endpoint: /assignments/1
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: GET, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: GET, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: GET, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: GET, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: GET, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: GET, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: GET, Endpoint: /assignments/ Times:1704784923581
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704784926891
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785056649
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785063170
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785063384
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785063547
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785063715
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785063873
+logging error on IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785274458
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785274601
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785274778
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785274921
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:1704785275057
+logging error on IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+logging error on IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+logging error on IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:January 9th 2024, 2:34:03 pm
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:January 9th 2024, 2:34:04 pm
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:January 9th 2024, 2:34:04 pm
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:January 9th 2024, 2:34:04 pm
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:January 9th 2024, 2:34:05 pm
+IP: ::ffff:127.0.0.1, Method: POST, Endpoint: /assignments/ Times:January 9th 2024, 2:34:05 pm
